@@ -3,3 +3,8 @@ Before Initialization
 git initialised, first commit
 
 commit after switching branch
+
+second commit
+
+Third commit
+
